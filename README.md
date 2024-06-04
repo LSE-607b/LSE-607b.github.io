@@ -2,7 +2,7 @@
 
 Once a week we meet to discuss the selected topics in the Yale course "Statistics 607b, Inequalities for probability and statistics". Speakers also prepare short handouts. The list of topics, speakers, and handouts can be found below. 
 
-### Topica and speakers
+### Topics and speakers
 
 | Date | Speakers | Topic | Notes |
 |---|---|---|---|
