@@ -7,7 +7,7 @@ Once a week we meet to discuss the selected topics in the Yale course "Statistic
 | Date | Speakers | Topic | Notes |
 |---|---|---|---|
 | 30-05-2024 | Shakeel and Pietro | Tails of the normal distribution | [link](https://github.com/LSE-607b/Statistics-607b-LSE-2024/tree/main/01-Tails-of-the-normal-distribution) |
-| 07-06-2024 | Zetai and Xuzhi | Convexity | TBA |
+| 07-06-2024 | Zetai and Xuzhi | Convexity | [link](https://github.com/LSE-607b/LSE-607b-handouts/tree/main/02-Convexity) |
 | 13-06-2024 | Di and Pouya | Metric entropy | TBA |
 
 ### Advice for speakers
