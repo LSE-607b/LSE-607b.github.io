@@ -9,7 +9,9 @@ Once a week we meet to discuss the selected topics in the Yale course "Statistic
 | 30-05-2024 | Shakeel and Pietro | Tails of the normal distribution | [link](https://github.com/LSE-607b/Statistics-607b-LSE-2024/tree/main/01-Tails-of-the-normal-distribution) |
 | 07-06-2024 | Zetai | Convexity (part I) | [link](https://github.com/LSE-607b/LSE-607b-handouts/tree/main/02-Convexity) |
 | 13-06-2024 | Xuzhi | Convexity (part II) | TBA |
-| 20-06-2024 | Di and Pouya | Metric entropy | TBA |
+| 20-06-2024 | Di and Shakeel | Metric entropy | TBA |
+| 27-06-2024 | Zetai and Xuzhi | Distances between measures | TBA |
+| 04-07-2024 | Pietro and x | Covariance inequalities | TBA |
 
 ### Group members
 
@@ -18,7 +20,6 @@ Once a week we meet to discuss the selected topics in the Yale course "Statistic
 * [Pietro](https://pitspa.github.io/)
 * [Di](https://disu-stat.github.io/) 
 * [Xuzhi](https://www.lse.ac.uk/statistics/people/xuzhi-yang)
-* [Pouya](https://www.lse.ac.uk/statistics/people/seyedpouya-mirrezaeiroudaki)
 
 ### Advice for speakers
 
